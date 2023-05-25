@@ -2,7 +2,7 @@
 library(tm)
 
 # utworzenie korpusu dokumentów
-corpus_dir <- "./Literatura - streszczenia - przetworzone"
+corpus_dir <- "./processed_documents"
 corpus <- VCorpus(
   DirSource(
     corpus_dir,

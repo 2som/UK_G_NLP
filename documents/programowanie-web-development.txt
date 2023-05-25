@@ -1,0 +1,45 @@
+czym jest Web Development i kim jest Web Developer?
+
+
+Tworzenie stron internetowych od A do Z to do niedawna był proces niezwykle wymagający, trudny i skomplikowany, a rezultat – nie zawsze przewidywalny. Z tego też powodu we współczesnym web developmencie wykształciło się wiele pojedynczych specjalizacji – dopiero połączenie ich wszystkich w jeden, zgrany zespół, daje najwyższą szansę powodzenia przy marginalizacji popełnienia jakiegokolwiek błędu. Dowiedz się, czym jest web development, jakie daje szanse rozwoju programistom i dlaczego się opłaca.
+Web development – co to jest?
+
+Zacznijmy od tego, że web development to nie jest jeden specjalistyczny zawód – to minimum kilka profesji i specjalizacji programistów, którzy mają precyzyjnie wyznaczoną ścieżkę kariery. Wszyscy diametralnie różnią się zakresem obowiązków, jak i zarobkami, lecz także trudnościami związanymi z uzyskaniem odpowiednio dużej wiedzy.
+
+Web development to nie praca – to proces, w tym przypadku tworzenia witryn internetowych oraz aplikacji webowych zarówno na wewnętrzne potrzeby, jak i dla firm trzecich, zazwyczaj takich, które zlecają napisanie całej witryny wyspecjalizowanej agencji od początku, aż do końca. Web developerem można zatem nazwać osobę, której celem jest stworzenie witryny internetowej i która to pod jakąkolwiek postacią wpływa na jej ostateczny rezultat. Podobnie jest w przypadku „pracownika biurowego” – sformułowaniem tym można opisać w zasadzie każdą osobę, która wykonuje swoje obowiązki w biurze – ich zakres jednak ustala specjalizacja, którą może być np. księgowość. W przypadku web developmentu jest tak samo – sformułowanie określa tylko i wyłącznie ogólny zakres pracy, nie zaś ich szczegółowy typ.
+Kim jest website developer?
+
+Website developer to osoba odpowiedzialna za tworzenie aplikacji webowych i stron internetowych, zatem z jej pracą ma styczność tak naprawdę dosłownie każdy internauta, a już w szczególności ten, który korzysta z aplikacji sieciowych czy przegląda zasoby ogólnodostępnego internetu. Praca web developera jest zatem niezwykle wszechogarniająca, a za pomocą jej rezultatów czytelnicy mogą przyswajać nowe newsy, czytać posty swoich ulubionych blogerów, oglądać animacje, przeglądać profile w mediach społecznościowych, a nawet grać w gry multi-player. Nie dziwi zatem fakt, że jest to profesja bardzo pofragmentowana, a poszczególni deweloperzy są oddelegowywani do ścisłych zadań.
+
+Website developer, niezależnie od jego specjalizacji, powinien przede wszystkim doskonale opanować umiejętności wymagane na praktycznie każdym stanowisku. Liczy się głównie znajomość HTML, CSS oraz JavaScript, które to są wykorzystywane w webdevelopmencie w zasadzie najczęściej. Pierwszy z nich – HTML – to język, który służy głównie do tworzenia samej witryny oraz jej szkieletu, JavaScript do kodowania funkcji, a CSS – do nadawania stylu. Każdy programista mający bezpośrednią styczność z webdevelopmentem powinien te trzy pojęcia znać od podszewki, podobnie jak Pythona, PHP czy Ruby.
+
+Webdev to czasami pościg z czasem, próba spełnienia niezwykle wygórowanych oczekiwań zleceniodawców czy nawet wymagań, które wydają się nie do spełnienia, dlatego popełnienie błędu na którymkolwiek etapie pracy jest w zasadzie jedynie kwestią czasu. Tym, co wyróżnia dobrego webdevelopera od tego, który musi jeszcze nieco się nauczyć, jest skrócenie czasu reakcji na pojawienie się buga w zasadzie do zera.
+
+Liczy się też ścisła współpraca. Jedna osoba – choćby dysponowała naprawdę dużą wiedzą z zakresu webdevelopmentu – nie będzie w stanie przeprowadzić każdego procesu od A do Z, a już z całą pewnością nie przy zachowaniu odpowiednio wysokiej jakości. Aby zostać web developerem, należy rozwijać także swoje umiejętności miękkie, czyli odporność na stres czy łatwość nawiązywania kontaktu z pozostałą częścią zespołu.
+Web developer – jakie ma obowiązki?
+
+Web development to skomplikowany i długi proces – wysoce wymagający i niewybaczający żadnego błędu – dlatego także wymaga zaangażowania minimum kilku osób odpowiedzialnych za jedną, konkretną funkcję witryn lub aplikacji internetowych. Wyróżniamy tak naprawdę dwie specjalizacje, które oczywiście nie wyczerpują dalszych specjalizacji.
+
+    Front end developer
+
+Front end to osoba odpowiedzialna w głównej mierze za programowanie witryny pod kątem jej estetyki (UX oraz UI) i wcielanie w życie planów webmastera, czyli programisty mającego największy wpływ na ostateczny rezultat pracy całego zespołu. Front end developer ma szeroki zakres obowiązków – jest odpowiedzialny za nawigację, sposób obsługi witryny, rozmieszczenie elementów wymagających interakcji i wiele, wiele innych. Jego praca jednak jest widoczna zdecydowanie najbardziej, szczególnie przez klientów, którzy nie zagłębiają się w szczegółowe technikalia, lecz oceniają witrynę wyłącznie pod kątem łatwości jej obsługi czy wyglądu.
+
+    Back end developer
+
+To kluczowy programista. Celem jego pracy jest stworzenie szkieletu, fundamentów pod stronę internetową, który powinien odpowiadać jej przeznaczeniu oraz ogólnej specyfikacji. Dla pracy backendu wszystko ma znaczenie – funkcjonalność, bezpieczeństwo danych oraz sposób ich wprowadzania i wiele innych zadań, które są kluczowe w kontekście użyteczności strony czy aplikacji, w tym baz danych i API.
+
+Współpraca tych osób gwarantuje sukces? Jak się okazuje – nie do końca. Czasami należy skorzystać także z usługi kolejnych specjalistów, w tym grafików, którzy w przeciwieństwie do frontendu są odpowiedzialni za zaprojektowanie i wykonanie grafik, nie za ich wdrożenie na witrynę w miejsce wybrane przez kierownika projektu.
+Czy website development się opłaca?
+
+Zdecydowanie tak! Web developer to osoba we współczesnym skomputeryzowanym świecie zupełnie niezastąpiona i zarazem także z doskonałą przyszłością – liczba aplikacji oraz witryn stale rośnie, podobnie jak rosną wymagania dotyczące ich wyglądu czy funkcjonalności. Każda firma, niezależnie od jej wielkości czy rynkowej popularności, chce mieć własne portfolio, a aplikację – większość najbardziej wymagających firm świadczących wybrane usługi czy prowadzących sprzedaż towaru. Tak czy inaczej, w branży IT ciężko o stagnację, za to łatwo o rozwój i zwiększanie zarobków.
+
+Website development to dobrze płatna praca, lecz realne wynagrodzenie zależy w głównej mierze od specjalizacji oraz doświadczenia, które w świecie programowania określa się mianem junior, mid i senior. Junior to osoba początkująca, z reguły tuż po ukończeniu studiów lub samodzielnej nauki, która dopiero wkracza w świat programowania. Etap ten trwa nawet 2-3 lata. Po ich upływie programista staje się mid back lub front end developerem i to przez kolejne 2-3 lata – wtedy staje się seniorem i może w rezultacie liczyć na doskonałe warunki pracy, lecz także musi liczyć się z dużą odpowiedzialnością, stresem, lecz także prywatnym spełnieniem i zwieńczeniem kariery.
+Webdev – jakie wymagania są szczególnie trudne do spełnienia?
+
+Warto mieć świadomość tego, że web development to atrakcyjna praca, z czym wiąże się oczywiście również jej bardzo duża popularność wśród początkujących programistów. To oznacza niemałe problemy związane ze znalezieniem pracy, nawet mimo galopującej popularności web developmentu wśród obecnych przedsiębiorców. Należy zatem zawalczyć na rynku z mocną konkurencją swoimi nietuzinkowymi zaletami, w tym:
+
+    Dobrą wiedzą na temat ogólnych zasad SEO – Search Engine Optimization – gdyż to od projektu strony zależy możliwość jej zindeksowania przez roboty wyszukiwarek.
+    Umiejętnościami miękkimi – łatwość komunikacji oraz umiejętność forsowania swoich pomysłów i brania ryzyka za niepowodzenia na siebie to cechy charakteru szczególnie pożądane wśród web developerów. Niestety są także rzadko spotykane.
+    Wieloma ukończonymi kursami – warto także, aby website developer miał za sobą jak największą liczbę kursów popartych certyfikatami oraz rekomendacjami ze strony dotychczasowych współpracowników i kontrahentów.
+
+Oczywiście każda firma stawia swoim kandydatom zupełnie różne wymagania. Wspólnym mianownikiem większości z nich jest oczywiście wiedza dotycząca danego stanowiska, dlatego dobrze jest skonsultować swoje oczekiwania z rekruterem, jak i budować swoją przyszłość na podstawie częstego szkolenia się. W przypadku web developmentu stagnacja hamuje rozwój – brak podążania za nowoczesną technologią oraz świeżymi narzędziami może w pewnym momencie sprawić duże trudności podczas poszukiwania pracy lub wykonywania swoich obowiązków w dotychczasowej firmie!

@@ -84,7 +84,7 @@ corrplot(clusters_matrix)
 dev.off()  
 
 rand_pattern_experiment <- comPart(clusters, clusters_pattern)
-rand_experiment1_experiment2 <- comPart(clusters_1, clusters_2)
+
 
 plot_file <- paste(
   clusters_dir,

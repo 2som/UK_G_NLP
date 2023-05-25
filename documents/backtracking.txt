@@ -1,0 +1,11 @@
+Algorytm backtrackingu, znany również jako przeszukiwanie wsteczne, jest techniką rekurencyjnego przeszukiwania drzewa lub grafu w celu znalezienia wszystkich możliwych rozwiązań dla danego problemu. Algorytm ten jest szczególnie przydatny w przypadku problemów kombinatorycznych, takich jak sudoku, łamigłówki logiczne czy układanie puzzli.
+
+Idea algorytmu backtrackingu polega na próbie rozwinięcia możliwych rozwiązań, krok po kroku, sprawdzając przy tym warunki ograniczające. Jeśli w danym kroku okazuje się, że nie można kontynuować rozwiązania, algorytm cofa się do poprzedniego kroku i próbuje inną ścieżkę. Proces ten powtarza się, aż zostaną znalezione wszystkie rozwiązania lub zostanie przeszukane całkowicie drzewo poszukiwań.
+
+Algorytm backtrackingu można opisać za pomocą rekurencyjnej funkcji. Na początku funkcja wywołuje siebie, a następnie sprawdza, czy spełnione są warunki ograniczające. Jeśli tak, przeszukiwanie kontynuuje się, a jeśli nie, funkcja wraca (cofanie się) do poprzedniego kroku i próbuje inne możliwości. Ten proces powtarza się, aż zostaną znalezione wszystkie rozwiązania.
+
+W przypadku problemów kombinatorycznych, jak sudoku, algorytm backtrackingu przeszukuje różne możliwości uzupełnienia pól, sprawdzając jednocześnie, czy spełnione są warunki ograniczające, takie jak unikalność liczb w wierszach, kolumnach i podkwadratach. Jeśli warunki nie są spełnione, algorytm cofa się i próbuje kolejne możliwości. Proces ten kontynuuje się, aż wszystkie pola zostaną uzupełnione poprawnie.
+
+Algorytm backtrackingu jest efektywny, ponieważ przeprowadza przeszukiwanie wsteczne, eliminując niepotrzebne ścieżki, które nie prowadzą do rozwiązania. Dzięki temu może być stosowany do problemów, które mają duże przestrzenie poszukiwań.
+
+Podsumowując, algorytm backtrackingu to technika przeszukiwania drzewa lub grafu, która pozwala znaleźć wszystkie możliwe rozwiązania dla danego problemu, stosując rekurencyjne przeszukiwanie wsteczne i cofanie się w przypadku niespełnienia warunków ograniczających. Jest szczególnie użyteczny w przypadku problemów kombinatorycznych.

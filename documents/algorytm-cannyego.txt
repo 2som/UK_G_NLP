@@ -1,0 +1,13 @@
+Algorytm wykrywania krawędzi w obrazie jest powszechnie stosowaną techniką przetwarzania obrazów, której celem jest identyfikacja i wyróżnienie obszarów o zróżnicowanej intensywności pikseli, co zazwyczaj wskazuje na obecność krawędzi. Istnieje wiele różnych metod wykrywania krawędzi, a jednym z najpopularniejszych i efektywnych jest algorytm Canny'ego.
+
+Algorytm Canny'ego składa się z kilku kroków. Pierwszym etapem jest konwersja obrazu na odcienie szarości, co ułatwia analizę intensywności pikseli. Następnie wykorzystuje się operator gradientowy, na przykład operator Sobela, do obliczenia gradientu intensywności w poziomie i pionie dla każdego piksela. Gradient reprezentuje zmianę intensywności w danym miejscu i kierunek największego wzrostu.
+
+Po obliczeniu gradientu, algorytm przeprowadza operację tzw. "tłumienia nieistotnych pikseli" (ang. non-maximum suppression). Polega to na analizie kierunku gradientu i porównaniu intensywności piksela z jego sąsiadami w tym samym kierunku. Jeśli piksel ma największą intensywność w swoim sąsiedztwie w danym kierunku, jest zachowywany jako potencjalna krawędź, w przeciwnym razie jest tłumiony.
+
+Kolejnym etapem jest zastosowanie progowania (ang. thresholding). Polega to na wyznaczeniu dwóch wartości progowych - dolnego i górnego. Piksele o intensywności poniżej wartości dolnego są odrzucane, a piksele powyżej wartości górnego są automatycznie uznawane za krawędzie. Piksele o intensywności między wartościami progowymi są akceptowane jako krawędzie tylko wtedy, gdy są połączone z pikselami już zakwalifikowanymi jako krawędzie.
+
+Ostatnim etapem jest "łączenie krawędzi" (ang. edge linking). Proces ten polega na łączeniu pikseli krawędziowych, które są sąsiadujące i spójne, aby utworzyć długie krzywe lub linie reprezentujące krawędzie w obrazie.
+
+Algorytm Canny'ego jest popularny ze względu na swoją skuteczność w wykrywaniu krawędzi, szczególnie przy minimalizacji fałszywych wykryć i zachowaniu dokładności. Jest szeroko stosowany w wielu dziedzinach, takich jak analiza obrazów, rozpoznawanie wzorców, wizja komputerowa czy robotyka.
+
+Algorytm ten umożliwia wyodrębnienie ważnych informacji o strukturze obrazu, co pozwala na dalszą analizę i przetwarzanie danych obrazowych w celu realizacji różnych zadań, takich jak detekcja obiektów, rozpoznawanie twarzy, segmentacja obrazu czy rozpoznawanie znaków.

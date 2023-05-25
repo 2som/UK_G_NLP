@@ -1,0 +1,121 @@
+Kim jest programista full stack?
+
+Jeszcze kilka lat temu w ofertach pracy dla branży IT dominowały te dla front-end albo back-end developerów. Dziś wciąż jest ich bardzo wiele. Jednak wśród nich zobaczysz także ogłoszenia dla full stack developerów. Kim oni są, czym się wyróżniają, jakie możliwości przed nimi stoją i kto szuka ich najczęściej? Właśnie na te pytania postaramy się dziś odpowiedzieć.
+
+Z tekstu dowiesz się:
+
+    kim jest programista full stack,
+    jakie kompetencje go wyróżniają,
+    jakie są zalety bycia full stack developerem,
+    jaki wygląda rynek pracy dla programistów full stack,
+    jak zostać full stack developerem,
+    ile zarabia full stack developer.
+
+Wyobraź sobie magika w świecie IT. Kogo widzisz? Osobę związaną z programowaniem, to jasne, ale czy wyróżnia się ona czymś jeszcze? Na pewno skalą i różnorodnością swoich kompetencji. Magik, o którym mowa, zna się praktycznie na wszystkich aspektach programowania. Magika, o którym mowa, nazywamy full stack developerem.
+
+Przeczytaj także artykuł: Start w branży IT – od czego zacząć?
+Programista full stack – kto to?
+
+Full stack developer. Co to znaczy? Kto to? Te pytania pojawiają się bardzo często. Aby zrozumieć dokładną definicję full stack programisty, trzeba wiedzieć, czym jest stos (ang. stack) technologiczny. Nazywamy tak cały zbiór elementów składających się na oprogramowanie komputera, m.in.:
+
+    system operacyjny,
+    bazy danych,
+    narzędzi do zarządzania środowiskiem,
+    serwer aplikacji czy serwer WWW.
+
+Jak widzisz, w stos technologiczny wchodzą zarówno zagadnienia typowe dla front-endu, jak i back-endu. Full stack developer sprawnie porusza się między obiema tymi kategoriami. W razie potrzeby może, ponieważ umie, samodzielnie zaprojektować aplikację od początku do końca. Zajmuje się on wtedy zarówno przygotowaniem logicznej mechaniki działania, administracją serwera czy bazy danych, jak i projektowaniem wizualnej odsłony produktu, kodowaniem oraz integracją systemów.
+
+Można zatem powiedzieć, że full stack developer jest programistą z kategorii „zrobię wszystko”. Właśnie dlatego na rynku często jest nie tyle towarem deficytowym, co świętym graalem. Zwłaszcza w takich sytuacjach, jak np. pandemia lub inne zachwiania rynku.
+Od szczegółu do ogółu – co musisz wiedzieć i umieć
+
+Full stack developerem zostaje najczęściej programista z kilkuletnią praktyką. Dzięki temu dużo łatwiej mu nie tylko rozbudować wiedzę o inne zagadnienia, ale i zrozumieć oraz połączyć ze sobą poszczególne elementy całego procesu.
+
+Konieczne są do tego konkretne umiejętności oraz znajomość narzędzi, technologii i języków ściśle związanych z poszczególnymi etapami tworzenia aplikacji webowych.
+
+Zaliczamy do nich na pewno znajomość/wiedzę na temat:
+
+    HTML/CSS – czyli języka znaczników, dzięki któremu sprawnie opiszesz wygląd przechowywanej treści, określisz tytuły, wskażesz linki w tekście itp.,
+    JavaScript – tj. języka programowania (front-end), za sprawą którego stworzysz wszelkie interaktywności na stronie (animacje, przejścia, itp.),
+    minimum jednego język używanego w back-endzie, np. Python, Java czy PHP,
+    pracy z systemem kontroli wersji Git,
+    baz danych opartych np. na SQL – są one ważnym elementem wielu aplikacji, np. sprzedażowych,
+    pracy z co najmniej jednym popularnym frameworkiem zarówno front-end (np. React), jak i back-end (np. Spring),
+    środowiska Node.js oraz związanych z nim narzędzi,
+    protokołu HTTP oraz zasad projektowania REST API.
+
+Przydatna będzie również wiedza ogólna związana z architekturą nowoczesnych aplikacji webowych. W końcu nie tylko mają one prawidłowo działać i dobrze wyglądać, ale także – być praktyczne i użyteczne.
+Zalety bycia programistą full stack
+
+Powyższa lista nieco Cię przeraziła? No cóż, bycie full stack developerem to na pewno bardzo wymagająca praca. Kryje się za tym jednak wiele korzyści, które sprawiają, że ta wizja kariery zawodowej zaczyna nabierać rumieńców. My wymienimy tylko 3 z nich, żeby Cię nie zanudzić. Możesz jednak uwierzyć nam na słowo, że znajdzie się ich znacznie więcej. Poznaj 3 zalety pracy jako programista full stack:
+
+1. Więcej ofert pracy
+
+Gdybyś w pewnym momencie swojego życia nie zainwestował naprawdę dużo czasu w pracę nad swoimi praktycznymi umiejętnościami, ten nie mógłbyś na to liczyć.
+
+Poza tym, jeśli staniesz się full stack developerem, to nie tylko na tym stanowisku będziesz mógł pracować. Równie dobrze – w razie konieczności – odnajdziesz się na stanowisku front- czy back-endowym. Możesz więc czuć się bezpiecznie niezależnie od sytuacji. A to, jak wiemy po wydarzeniach z 2020 roku, zapewni Ci większy spokój ducha i komfort życia.
+
+2. Szybszy rozwój
+
+Nie chodzi o to, że w ciągu miesiąca staniesz się full stack developerem, bo, jak napisaliśmy wyżej, full stack developer to programista, który ma za sobą już kilka lat aktywnej pracy w zawodzie.
+
+Nie ulega jednak wątpliwościom, że możliwość uczestniczenia w całym procesie oraz nieustanne zgłębianie wiedzy sprawia, że Twoje kompetencje nieustannie rosną i tworzą spójną całość. Gotową do wykorzystania w każdej sytuacji! A dzięki temu, że różne metody i techniki front- i back-endu mogą się przenikać, to Ty po prostu każdego dnia poszerzasz swoją znajomość całego stosu technologicznego.
+
+3. Znajomość całego procesu
+
+Ta umiejętność ma szczególne znaczenie dla zespołu, w którym będziesz pracować. Będziesz dla niego wsparciem, będziesz w stanie brać udział w różnych etapach całej pracy. Poza tym umiejętne poruszanie się w zakamarkach wszystkich etapów pracy sprawia, że Twoja praca – nawet jeśli aktualnie dotyczy jednego tylko fragmentu – jest bardziej precyzyjna i skuteczna. Wiesz i rozumiesz, co było wcześniej i do którego momentu dążycie w następnej kolejności.
+Full stack developer – co mówią ogłoszenia o pracę?
+
+Wciąż masz wątpliwości i nie do końca wiesz, czy bycie full stack developerem ma sens? W takim razie po prostu wejdź na stronę z ogłoszeniami o pracę, np. pracuj.pl, wpisz w wyszukiwarkę „full stack developer” i… obserwuj, jak dzieje się magia! Zobacz, jak wiele takich ogłoszeń się wyświetla. I to w całej Polsce – od Krakowa przez Warszawę po Gdańsk.
+
+W ten sposób zorientujesz się także, co firmy oferują przyszłym pracownikom, czego od nich oczekują i jak możesz przygotować się nie tylko do tego zawodu, ale i rozmów rekrutacyjnych. Ważne jest również to, że pojawiają się ogłoszenia dla wszystkich poziomów zaawansowania, czyli dla juniorów, midów i seniorów.
+
+Zwróć też uwagę, że duża część ogłoszeń na to stanowisko pojawia się w języku angielskim. To dla Ciebie istotna wskazówka. W pracy programisty – każdego programisty! – język obcy (najczęściej angielski) jest bardzo potrzebny, choćby do zrozumienia dokumentacji projektu.
+
+Przeczytaj także artykuł: Bootcampy programistyczne – najczęściej powielane mity
+Jakie organizacje potrzebują full-stack developerów?
+
+Mówi się, że full stack programiści są najbardziej poszukiwani przez małe firmy czy start-upy. Chodzi więc o te instytucje, które mają mniejsze, ale wielozadaniowe zespoły. Często faktycznie tak właśnie jest, jednak – jeśli przejrzałeś wcześniej oferty pracy – to wiesz, że full stack developerów szukają m.in.:
+
+    firmy audytorsko-doradcze,
+    banki,
+    firmy telekomunikacyjne.
+
+Jest zatem duże pole do popisu. Na programistów full stack czekają naprawdę rozmaite wyzwania. A dzięki tej różnorodności trudno o nudę w pracy!
+Jak zostać full stack developerem?
+
+Skoro jest tyle ofert, skoro tak wiele korzyści wiąże się z tą pracą, to co zrobić, żeby zostać full stack developerem?
+
+Ścieżek, które doprowadzą Cię do tego celu jest tak naprawdę wiele. Jednak jedna z nich zdarza się najczęściej. Ma ona miejsce wtedy, gdy dopiero wkraczasz w świat IT.
+
+W Coders Lab masz do wyboru kursy zarówno back-, jak i front-endowe. Wszystkie dostępne w różnych pakietach, formach i trybach. Dlatego na pewno znajdziesz rozwiązanie najbardziej pasujące do Twojego trybu życia.
+
+Jeśli dopiero zaczynasz przygodę z tą branżą, to przyjrzyj się pakietowi Premium. Został on przygotowany dla osób spragnionych bardzo szerokiej i praktycznej wiedzy zarówno z back-endu, jak i front-endu.
+
+Jak to działa?
+
+    Wybierasz swój kurs (np. Java Developer).
+    Decydujesz się na pakiet Premium.
+    Po skończonym kursie korzystasz z programu Full Stack.
+
+Dzięki temu niemal od razu zdobywasz wiedzę z obu kategorii. A co za tym idzie – zyskujesz przewagę na rynku pracy. Dodatkowo oszczędzasz pieniądze. Pakiet premium po prostu się opłaca!
+
+Nie wiesz, jakiego języka programowania się uczyć? Chętnie podpowiemy! Przeczytaj o najpopularniejszych językach programowania.
+Full stack developer – praca i możliwe drogi rozwoju
+
+Gdy zdobyte kompetencje i doświadczenie pozwolą Ci rekrutować na stanowisko programisty full stack, to pamiętaj, że na tym przygoda wcale nie musi się zakończyć.
+
+Ścieżka rozwoju nie musi kończyć się na poziomie seniora. W dalszej kolejności możesz starać się o stanowisko leadera lub managera zespołu. W ten sposób pomożesz ludziom doskonalić ich kompetencje i wykształcić nowe pokolenie sprawnych, doświadczonych full stack developerów!
+
+Przeczytaj także artykuł: Od juniora do seniora w IT
+Full stack developer – zarobki
+
+Ulubiona i jednocześnie najczęstsza odpowiedź na tak postawione pytanie brzmi: to zależy. Wpływa na to kilka czynników, z których najważniejsze są:
+
+    staż pracy – na początku drogi, zwłaszcza gdy zupełnie nie masz jeszcze doświadczenia, zarobki będą oczywiście niższe,
+    wielkość firmy – małe firmy, start-upy mogą oferować niższe stawki, ale dają za to okazję do wykazania się i rozwoju,
+    lokalizacja firmy – nikogo nie zdziwi, że stawki nawet na tym samym stanowisku w Warszawie, Krakowie, Gdańsku czy Łodzi będą się od siebie różnić, w końcu im większe miasto tym częściej wyższe stawki.
+
+Przeciętne zarobki na stanowisku full stack programisty w Polsce sięgają około 11 500 zł brutto. Ale pamiętaj – to jedynie średnia. Kwota może więc zmieniać się w zależności od firmy, doświadczenia czy nawet formy zatrudnienia.
+Programista full stack – podsumowanie
+
+Magik w branży IT ma naprawdę ciekawe oblicze. Nic więc dziwnego, że tak wiele firm rozgląda się właśnie za takimi pracownikami. Jak widzisz, potencjalny full stack developer ma przed sobą wiele kierunków nie tylko tego, jak zrealizować zaplanowany cel zawodowy, ale i dalszego rozwoju kariery. Jeśli jesteś pewien, że odnajdziesz się zarówno w świecie baz, back-endu i front-endu, w takim razie śmiało podążaj tą dość długą, ale interesującą ścieżką.

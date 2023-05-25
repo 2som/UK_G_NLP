@@ -86,8 +86,7 @@ important_terms <- names(
     30
   )
 )
-own_terms <- c("harry", "hermiona", "edmund", "zuzanna", "edward", "bell")
-current_terms <- own_terms
+current_terms <- important_terms
 
 x1 <- coord_docs[,1]
 y1 <- coord_docs[,2]

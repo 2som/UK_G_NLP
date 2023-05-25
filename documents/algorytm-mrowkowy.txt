@@ -1,0 +1,13 @@
+Algorytm mrówkowy jest metaheurystycznym algorytmem inspirowanym zachowaniem kolonii mrówek, które poruszają się po środowisku w poszukiwaniu źródeł pożywienia. Ten zaawansowany algorytm optymalizacji jest stosowany do rozwiązywania problemów trudnych do rozwiązania za pomocą tradycyjnych metod.
+
+Algorytm mrówkowy działa na podstawie interakcji między wirtualnymi mrówkami, które poruszają się po grafie reprezentującym problem. Początkowo mrówki są rozmieszczane na losowych wierzchołkach grafu. Następnie, w każdej iteracji, mrówki poruszają się po grafie, wybierając kolejne wierzchołki do odwiedzenia na podstawie prawdopodobieństwa wyboru ścieżki.
+
+Prawdopodobieństwo wyboru ścieżki jest obliczane na podstawie informacji heurystycznych oraz feromonów pozostawionych przez mrówki. Feromony to sztuczne substancje, które mrówki pozostawiają na śladach podczas poruszania się po grafie. Wyższa wartość feromonów na konkretnej ścieżce wskazuje na atrakcyjność tej ścieżki. Informacja heurystyczna odzwierciedla "odległość" między wierzchołkami i pomaga mrówkom wybrać najbardziej optymalną ścieżkę.
+
+Podczas poruszania się, mrówki aktualizują wartości feromonów na odwiedzonych ścieżkach. Krótsze i bardziej optymalne ścieżki otrzymują większą ilość feromonów, co zwiększa atrakcyjność tych ścieżek dla innych mrówek. Ponadto, feromony stopniowo się odparowują, aby uniknąć zbytniego skupienia na jednej ścieżce.
+
+Proces poruszania się mrówek i aktualizacji feromonów powtarza się przez określoną liczbę iteracji lub do momentu znalezienia satysfakcjonującego rozwiązania. Ostateczne rozwiązanie problemu jest zwykle znalezione przez mrówki, które wybierają najbardziej optymalną ścieżkę na podstawie informacji heurystycznych i feromonów.
+
+Algorytm mrówkowy jest wykorzystywany do rozwiązywania różnorodnych problemów, takich jak problem komiwojażera, układanie planów, optymalizacja tras czy projektowanie sieci. Dzięki swojej zdolności do adaptacji i eksploracji przestrzeni problemowej, algorytm mrówkowy jest narzędziem efektywnym i potężnym w dziedzinie optymalizacji.
+
+W skrócie, algorytm mrówkowy opiera się na kolektywnym zachowaniu mrówek, które poruszają się po środowisku, pozostawiając feromony i wybierając optymalne ścieżki na podstawie informacji heurystycznych. Dzięki temu algorytmowi możliwe jest znalezienie rozwiązań optymalnych lub bliskich optymalnym dla różnych problemów optymalizacyjnych.
